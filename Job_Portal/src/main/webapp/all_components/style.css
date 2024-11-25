@@ -1,0 +1,30 @@
+/* body {
+	background-color: pink;
+	padding: 10px;
+} */
+
+.btn{
+	margin-left:10px;
+}
+
+.bg-custom {
+	background-color: #283593;
+}
+
+.navbar .nav-item .nav-link {
+	color: white;
+}
+
+.navbar .nav-item:hover .nav-link {
+	background: white;
+	color: black;
+	border-radius: 5px;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
